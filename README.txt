@@ -1,7 +1,6 @@
 # explorerguide
 
-Explorer
-Copy
+
 sudo apt autoremove nodejs -y
 curl -fsSL https://deb.nodesource.com/setup_19.x | sudo -E bash -
 curl -sL https://dl.yarnpkg.com/debian/pubkey.gpg | gpg --dearmor | sudo tee /usr/share/keyrings/yarnkey.gpg >/dev/null
